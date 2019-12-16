@@ -1,1 +1,19 @@
-ADGDSFH
+.site-header {
+    padding: 20px;
+    font-family: "Source Sans Pro", sans-serif;
+  }
+  .site-nav{
+    background: rgba( 0, 255, 0, 0.15 );
+    font-family: "Source Sans Pro", sans-serif;
+  }
+  .site-main {
+    background: white;
+    font-family: "Source Sans Pro", sans-serif;
+    margin-top: 10px;
+  }
+  footer {
+   background: rgba( 0, 0, 255, 0.15 ); 
+   font-family: "Source Sans Pro", sans-serif;
+   padding: 20px;
+   margin-bottom: 2%;
+  }
